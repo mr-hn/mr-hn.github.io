@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RShiny on Harish Morekonda</title>
+    <link>/tags/rshiny/</link>
+    <description>Recent content in RShiny on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/rshiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Investment Property Recommendation</title>
+      <link>/project/analysis-invest/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/analysis-invest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coral Health Study</title>
+      <link>/project/analysis-corals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/analysis-corals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Economy Monitor</title>
+      <link>/project/analysis-economy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/analysis-economy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

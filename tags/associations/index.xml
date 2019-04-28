@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>associations on Harish Morekonda</title>
+    <link>/tags/associations/</link>
+    <description>Recent content in associations on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/associations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Association Rules - Cincinnati Zoo</title>
+      <link>/project/unsupervised-asso/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/unsupervised-asso/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

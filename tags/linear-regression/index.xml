@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linear regression on Harish Morekonda</title>
+    <link>/tags/linear-regression/</link>
+    <description>Recent content in linear regression on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Sat, 27 May 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/linear-regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Boston Housing Prices</title>
+      <link>/project/supervised-regression/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/project/supervised-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Flight Landing Overruns</title>
+      <link>/project/supervised-flight/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/project/supervised-flight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alumni Donations - A Case Study in Linear Regression</title>
+      <link>/project/supervised-alumni/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/supervised-alumni/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

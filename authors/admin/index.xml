@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Harish Morekonda</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in admin on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/harish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/harish/</guid>
+      <description>Data is propelling innovation and competitiveness the way oil and assembly line did in the past. My aspiration is to leverage analytics and help transform business processes from being reactive to proactive.
+I began my career at SAP, developing custom enterprise applications for customers across industries. I bring with me experience working across teams and time zones in a dynamic and fast-paced environment. I am currently pursuing my Masters in Business Analytics, training in the use of analytical frameworks and applied mathematics in businesses.</description>
+    </item>
+    
+  </channel>
+</rss>

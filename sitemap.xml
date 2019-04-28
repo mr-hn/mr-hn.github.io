@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+    
+      <loc>/project/supervised-classification/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/unsupervised-kmeans/</loc>
+      <lastmod>2019-10-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/supervised-neuralnet/</loc>
+      <lastmod>2019-08-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/unsupervised-asso/</loc>
+      <lastmod>2019-06-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/analysis-invest/</loc>
+      <lastmod>2019-05-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/analysis-marketing/</loc>
+      <lastmod>2019-04-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/tableau-inc5000/</loc>
+      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/unsupervised-pca/</loc>
+      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/supervised-regression/</loc>
+      <lastmod>2017-05-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/supervised-flight/</loc>
+      <lastmod>2017-04-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/supervised-alumni/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/author/harish/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/author/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/project/analysis-corals/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/project/analysis-economy/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/k-means/</loc>
+      <lastmod>2019-10-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/project/tableau-kansas/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/rshiny/</loc>
+      <lastmod>2019-05-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-10-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/analysis/</loc>
+      <lastmod>2019-05-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/associations/</loc>
+      <lastmod>2019-06-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/bagging/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/bias-variance/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/boosting/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/classification/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/decision-trees/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/elasticnet/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/ggplot/</loc>
+      <lastmod>2019-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/lasso/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/leaflet/</loc>
+      <lastmod>2019-05-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/linear-regression/</loc>
+      <lastmod>2017-05-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/logistic-regression/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/multinomial/</loc>
+      <lastmod>2017-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/neuralnet/</loc>
+      <lastmod>2019-08-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/plotly/</loc>
+      <lastmod>2019-10-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/principal-component-analysis/</loc>
+      <lastmod>2019-10-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/random-forests/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/regularization/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/supervised/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/tableau/</loc>
+      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/tidyverse/</loc>
+      <lastmod>2019-12-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/unsupervised/</loc>
+      <lastmod>2019-10-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+</urlset>
