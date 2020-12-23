@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unsupervised on Harish Morekonda</title>
+    <link>https://mr-hn.github.io/tags/unsupervised/</link>
+    <description>Recent content in unsupervised on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 -0400</lastBuildDate><atom:link href="https://mr-hn.github.io/tags/unsupervised/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K-Means Clustering - A Sparse Version of PCA</title>
+      <link>https://mr-hn.github.io/project/unsupervised-kmeans/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/unsupervised-kmeans/</guid>
+      <description>Exploring the idea that PCA are continuous solutions to K-Means</description>
+    </item>
+    
+    <item>
+      <title>Association Rules - Cincinnati Zoo</title>
+      <link>https://mr-hn.github.io/project/unsupervised-asso/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/unsupervised-asso/</guid>
+      <description>An app based on Apriori that recommends customer purchases</description>
+    </item>
+    
+    <item>
+      <title>Building Index Using Principal Component Analysis</title>
+      <link>https://mr-hn.github.io/project/unsupervised-pca/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/unsupervised-pca/</guid>
+      <description>Ranking countries by Olympics sprint time after dimensionality reduction</description>
+    </item>
+    
+  </channel>
+</rss>

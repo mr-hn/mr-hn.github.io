@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Harish Morekonda</title>
+    <link>https://mr-hn.github.io/project/</link>
+    <description>Recent content in Projects on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright><atom:link href="https://mr-hn.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LM vs ML</title>
+      <link>https://mr-hn.github.io/project/supervised-classification/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-classification/</guid>
+      <description>Comparing regression to modern machine learning algorithms</description>
+    </item>
+    
+    <item>
+      <title>K-Means Clustering - A Sparse Version of PCA</title>
+      <link>https://mr-hn.github.io/project/unsupervised-kmeans/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/unsupervised-kmeans/</guid>
+      <description>Exploring the idea that PCA are continuous solutions to K-Means</description>
+    </item>
+    
+    <item>
+      <title>Artificial Neural Network</title>
+      <link>https://mr-hn.github.io/project/supervised-neuralnet/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-neuralnet/</guid>
+      <description>Study of ANNs to predict bankruptcy</description>
+    </item>
+    
+    <item>
+      <title>Association Rules - Cincinnati Zoo</title>
+      <link>https://mr-hn.github.io/project/unsupervised-asso/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/unsupervised-asso/</guid>
+      <description>An app based on Apriori that recommends customer purchases</description>
+    </item>
+    
+    <item>
+      <title>Investment Property Recommendation</title>
+      <link>https://mr-hn.github.io/project/analysis-invest/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/analysis-invest/</guid>
+      <description>Break Even analysis of short term property leasing</description>
+    </item>
+    
+    <item>
+      <title>Customer Centric vs Operational Marketing</title>
+      <link>https://mr-hn.github.io/project/analysis-marketing/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/analysis-marketing/</guid>
+      <description>Customers’ purchase behavior to a retail chain’s personalized coupons</description>
+    </item>
+    
+    <item>
+      <title>INC 5000 Rankings</title>
+      <link>https://mr-hn.github.io/project/tableau-inc5000/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/tableau-inc5000/</guid>
+      <description>Analyzing the stability of INC 5000 companies</description>
+    </item>
+    
+    <item>
+      <title>Building Index Using Principal Component Analysis</title>
+      <link>https://mr-hn.github.io/project/unsupervised-pca/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/unsupervised-pca/</guid>
+      <description>Ranking countries by Olympics sprint time after dimensionality reduction</description>
+    </item>
+    
+    <item>
+      <title>Predicting Boston Housing Prices</title>
+      <link>https://mr-hn.github.io/project/supervised-regression/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-regression/</guid>
+      <description>Using linear regressions and tree based models</description>
+    </item>
+    
+    <item>
+      <title>Modeling Flight Landing Overruns</title>
+      <link>https://mr-hn.github.io/project/supervised-flight/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-flight/</guid>
+      <description>A statistical analysis of factors affecting landing</description>
+    </item>
+    
+    <item>
+      <title>Alumni Donations - A Case Study in Linear Regression</title>
+      <link>https://mr-hn.github.io/project/supervised-alumni/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-alumni/</guid>
+      <description>Model building and diagnostics</description>
+    </item>
+    
+    <item>
+      <title>Coral Health Study</title>
+      <link>https://mr-hn.github.io/project/analysis-corals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/analysis-corals/</guid>
+      <description>Assessing coral bleach around the island of Koh Tao</description>
+    </item>
+    
+    <item>
+      <title>Global Economy Monitor</title>
+      <link>https://mr-hn.github.io/project/analysis-economy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/analysis-economy/</guid>
+      <description>Dashboard of economic development parameters of countries of the world</description>
+    </item>
+    
+    <item>
+      <title>Kansas City Crime Stats</title>
+      <link>https://mr-hn.github.io/project/tableau-kansas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/tableau-kansas/</guid>
+      <description>A Tableau dashboard exploring the crime statistics of Kansas City</description>
+    </item>
+    
+  </channel>
+</rss>

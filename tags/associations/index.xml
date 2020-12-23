@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>associations on Harish Morekonda</title>
+    <link>https://mr-hn.github.io/tags/associations/</link>
+    <description>Recent content in associations on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 -0400</lastBuildDate><atom:link href="https://mr-hn.github.io/tags/associations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Association Rules - Cincinnati Zoo</title>
+      <link>https://mr-hn.github.io/project/unsupervised-asso/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/unsupervised-asso/</guid>
+      <description>An app based on Apriori that recommends customer purchases</description>
+    </item>
+    
+  </channel>
+</rss>

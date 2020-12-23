@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Harish Morekonda</title>
+    <link>https://mr-hn.github.io/tags/</link>
+    <description>Recent content in Tags on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://mr-hn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bagging</title>
+      <link>https://mr-hn.github.io/tags/bagging/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/bagging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bias-variance</title>
+      <link>https://mr-hn.github.io/tags/bias-variance/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/bias-variance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>boosting</title>
+      <link>https://mr-hn.github.io/tags/boosting/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/boosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classification</title>
+      <link>https://mr-hn.github.io/tags/classification/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decision trees</title>
+      <link>https://mr-hn.github.io/tags/decision-trees/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/decision-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elasticnet</title>
+      <link>https://mr-hn.github.io/tags/elasticnet/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/elasticnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lasso</title>
+      <link>https://mr-hn.github.io/tags/lasso/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/lasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logistic regression</title>
+      <link>https://mr-hn.github.io/tags/logistic-regression/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random forests</title>
+      <link>https://mr-hn.github.io/tags/random-forests/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/random-forests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regularization</title>
+      <link>https://mr-hn.github.io/tags/regularization/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/regularization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supervised</title>
+      <link>https://mr-hn.github.io/tags/supervised/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/supervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
+      <link>https://mr-hn.github.io/tags/tidyverse/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/tidyverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-Means</title>
+      <link>https://mr-hn.github.io/tags/k-means/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/k-means/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plotly</title>
+      <link>https://mr-hn.github.io/tags/plotly/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/plotly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>principal component analysis</title>
+      <link>https://mr-hn.github.io/tags/principal-component-analysis/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/principal-component-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unsupervised</title>
+      <link>https://mr-hn.github.io/tags/unsupervised/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuralnet</title>
+      <link>https://mr-hn.github.io/tags/neuralnet/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/neuralnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>associations</title>
+      <link>https://mr-hn.github.io/tags/associations/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/associations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analysis</title>
+      <link>https://mr-hn.github.io/tags/analysis/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leaflet</title>
+      <link>https://mr-hn.github.io/tags/leaflet/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/leaflet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RShiny</title>
+      <link>https://mr-hn.github.io/tags/rshiny/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/rshiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ggplot</title>
+      <link>https://mr-hn.github.io/tags/ggplot/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/ggplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tableau</title>
+      <link>https://mr-hn.github.io/tags/tableau/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linear regression</title>
+      <link>https://mr-hn.github.io/tags/linear-regression/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/linear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multinomial</title>
+      <link>https://mr-hn.github.io/tags/multinomial/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/tags/multinomial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

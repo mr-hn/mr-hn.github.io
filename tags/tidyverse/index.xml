@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tidyverse on Harish Morekonda</title>
+    <link>https://mr-hn.github.io/tags/tidyverse/</link>
+    <description>Recent content in tidyverse on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://mr-hn.github.io/tags/tidyverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LM vs ML</title>
+      <link>https://mr-hn.github.io/project/supervised-classification/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-classification/</guid>
+      <description>Comparing regression to modern machine learning algorithms</description>
+    </item>
+    
+    <item>
+      <title>Customer Centric vs Operational Marketing</title>
+      <link>https://mr-hn.github.io/project/analysis-marketing/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/analysis-marketing/</guid>
+      <description>Customers’ purchase behavior to a retail chain’s personalized coupons</description>
+    </item>
+    
+  </channel>
+</rss>

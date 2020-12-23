@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tableau on Harish Morekonda</title>
+    <link>https://mr-hn.github.io/tags/tableau/</link>
+    <description>Recent content in tableau on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Wed, 27 Mar 2019 00:00:00 -0400</lastBuildDate><atom:link href="https://mr-hn.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INC 5000 Rankings</title>
+      <link>https://mr-hn.github.io/project/tableau-inc5000/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/tableau-inc5000/</guid>
+      <description>Analyzing the stability of INC 5000 companies</description>
+    </item>
+    
+    <item>
+      <title>Kansas City Crime Stats</title>
+      <link>https://mr-hn.github.io/project/tableau-kansas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/tableau-kansas/</guid>
+      <description>A Tableau dashboard exploring the crime statistics of Kansas City</description>
+    </item>
+    
+  </channel>
+</rss>

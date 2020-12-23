@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regularization on Harish Morekonda</title>
+    <link>https://mr-hn.github.io/tags/regularization/</link>
+    <description>Recent content in regularization on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://mr-hn.github.io/tags/regularization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LM vs ML</title>
+      <link>https://mr-hn.github.io/project/supervised-classification/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-classification/</guid>
+      <description>Comparing regression to modern machine learning algorithms</description>
+    </item>
+    
+    <item>
+      <title>Artificial Neural Network</title>
+      <link>https://mr-hn.github.io/project/supervised-neuralnet/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-neuralnet/</guid>
+      <description>Study of ANNs to predict bankruptcy</description>
+    </item>
+    
+    <item>
+      <title>Predicting Boston Housing Prices</title>
+      <link>https://mr-hn.github.io/project/supervised-regression/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-regression/</guid>
+      <description>Using linear regressions and tree based models</description>
+    </item>
+    
+  </channel>
+</rss>

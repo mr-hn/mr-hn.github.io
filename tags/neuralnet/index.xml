@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neuralnet on Harish Morekonda</title>
+    <link>https://mr-hn.github.io/tags/neuralnet/</link>
+    <description>Recent content in neuralnet on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 -0400</lastBuildDate><atom:link href="https://mr-hn.github.io/tags/neuralnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Neural Network</title>
+      <link>https://mr-hn.github.io/project/supervised-neuralnet/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/supervised-neuralnet/</guid>
+      <description>Study of ANNs to predict bankruptcy</description>
+    </item>
+    
+  </channel>
+</rss>

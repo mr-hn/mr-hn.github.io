@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plotly on Harish Morekonda</title>
+    <link>https://mr-hn.github.io/tags/plotly/</link>
+    <description>Recent content in plotly on Harish Morekonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish M</copyright>
+    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 -0400</lastBuildDate><atom:link href="https://mr-hn.github.io/tags/plotly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K-Means Clustering - A Sparse Version of PCA</title>
+      <link>https://mr-hn.github.io/project/unsupervised-kmeans/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/unsupervised-kmeans/</guid>
+      <description>Exploring the idea that PCA are continuous solutions to K-Means</description>
+    </item>
+    
+    <item>
+      <title>Global Economy Monitor</title>
+      <link>https://mr-hn.github.io/project/analysis-economy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mr-hn.github.io/project/analysis-economy/</guid>
+      <description>Dashboard of economic development parameters of countries of the world</description>
+    </item>
+    
+  </channel>
+</rss>
