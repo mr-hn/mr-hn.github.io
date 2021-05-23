@@ -152,24 +152,6 @@
   
     <url>
     
-      <loc>https://mr-hn.github.io/project/analysis-invest/</loc>
-      <lastmod>2019-04-28T00:48:52-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://mr-hn.github.io/tags/leaflet/</loc>
-      <lastmod>2019-04-28T00:48:52-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://mr-hn.github.io/tags/rshiny/</loc>
-      <lastmod>2019-04-28T00:48:52-04:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://mr-hn.github.io/project/analysis-marketing/</loc>
       <lastmod>2019-04-28T00:48:52-04:00</lastmod>
     </url>
@@ -277,6 +259,12 @@
   
     <url>
     
+      <loc>https://mr-hn.github.io/tags/leaflet/</loc>
+      <lastmod>2019-04-28T00:48:52-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://mr-hn.github.io/project/</loc>
       <lastmod>2019-04-28T00:48:52-04:00</lastmod>
     </url>
@@ -284,6 +272,12 @@
     <url>
     
       <loc>https://mr-hn.github.io/publication_types/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://mr-hn.github.io/tags/rshiny/</loc>
+      <lastmod>2019-04-28T00:48:52-04:00</lastmod>
     </url>
   
 </urlset>
